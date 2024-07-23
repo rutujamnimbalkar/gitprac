@@ -1,3 +1,7 @@
 thig tihigitihjfbgxfsfghajslgldkjshdnchiflr
+<<<<<<< HEAD
 fgdfgdhj
 dgdgggfsdasfgdvfgsg
+=======
+fgdfgdhj
+>>>>>>> 23aade54c8505ba1db780f1decd6b2f09fb8c62a
